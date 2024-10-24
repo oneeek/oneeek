@@ -3,8 +3,7 @@ I study AI technology in Transportation Engineering. I try to learn, and record 
 If you want to contact me, please email me. <br/>
 ##
 ### 🪐 Project 
-- CAV
-- b
+- Vehicle_Platooning
 
 ## 
 ### 🪐 Record
