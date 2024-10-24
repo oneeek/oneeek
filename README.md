@@ -8,7 +8,7 @@ If you want to contact me, please email me. <br/>
 ## 
 ### 🪐 Record
 - **`백준`**
-- [**`인공지능`**](https://arxiv.org/abs/1812.05905)
+- [**`인공지능`**](https://github.com/oneeek/AI)
 <br/>
 
 - **`🐾`**
