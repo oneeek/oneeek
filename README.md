@@ -9,7 +9,7 @@ If you want to contact me, please email me. <br/>
 ### 🪐 Record
 - **`백준`**
 - **`인공지능`**
-- **`🐾`**
+- **`🐾`** 개인기록
 
 ##
 💘 My profile is myyyy cat.
