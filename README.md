@@ -9,7 +9,7 @@ If you want to contact me, please email me. <br/>
 ### 🪐 Record
 - [**`백준`**](https://github.com/oneeek/BAEKJOON)
 - [**`인공지능`**](https://github.com/oneeek/AI)
-- [SQLD]
+- [**`SQL`**](https://github.com/oneeek/SQL)
 <br/>
 
 - [**`📖`**](https://github.com/oneeek/G1)
