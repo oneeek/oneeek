@@ -3,7 +3,8 @@ I study AI technology in Transportation Engineering. I try to learn, and record 
 If you want to contact me, please email me. <br/>
 ##
 ### 🪐 Project 
-- [**`Vehicle Platooning`**](https://github.com/oneeek/vehicle_platooning) 강화학습을 이용한 교통 신호와 자율주행차 군집 주행의 동시 최적화
+- [**`Vehicle Platooning`**](https://github.com/oneeek/vehicle_platooning) 자율주행차량 기반 교차로 최적화 연구
+
 
 ## 
 ### 🪐 Record
