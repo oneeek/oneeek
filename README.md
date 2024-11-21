@@ -13,7 +13,6 @@ If you want to contact me, please email me. <br/>
 - [**`SQL`**](https://github.com/oneeek/SQL)
 <br/>
 
-- [**`📖`**](https://github.com/oneeek/G1)
 
 ##
 💘 My profile is myyyy cat.
